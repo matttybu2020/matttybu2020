@@ -1,5 +1,6 @@
 # 💫 About Me:
-Soy un desarrollador apasionado por la programación && Computacion , me gusta los retos  logicos y trato de resolverlos de manera tecnica y explicativa. Una de las cosas que me interesan es aprender  nuevas tecnologías en el cual facilite mi trabajo para poder desempeñarme . <br>Mi objetivo es poder tener el conocimiento y la practica adecuada para poder utilizar  tecnologías de programación y asi poder  brindar mis conocimientos  a las personas.
+Soy un desarrollador apasionado por la programación && Computación, me gustan los retos lógicos y trato de resolverlos de manera técnica y explicativa. Una de las cosas que me interesan es aprender nuevas tecnologías en el cual facilite mi trabajo para poder desempeñarme.
+Mi objetivo es poder tener el conocimiento y la práctica adecuada para poder utilizar tecnologías de programación y asi poder brindar mis conocimientos a las personas.
 
 
 ## 🌐 Socials:
