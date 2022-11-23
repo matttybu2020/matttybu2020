@@ -30,7 +30,7 @@ Puedes contactarme a traves de mi correo electrónico <b>tecnicosuperior.mgonzal
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hello, 👋 we are JJMS LUXURY</h1>
+<h1 align="center">JJMS LUXURY</h1>
 
 <h3 align="center">¡WELCOME TO OUR README! 😃</h3>
 
