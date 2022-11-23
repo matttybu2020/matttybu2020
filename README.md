@@ -32,13 +32,11 @@ Puedes contactarme a traves de mi correo electrónico <b>tecnicosuperior.mgonzal
 
 <h1 align="center">JJMS LUXURY</h1>
 
-<h3 align="center">¡WELCOME TO OUR README! 😃</h3>
-
-<b>JJMS LUXURY is a company in which you can buy the best and most luxurious cars, antiques, watches, jewelry, collectibles, etc.<br>
-Our company emerged as a result of inflation where everything is already too expensive, we thought about it and decided to do something so that you can access the products or goods that you have always dreamed of having at a low cost. What we sell are second-hand goods, which go through a series of tests to check their excellent condition, since we always think about our customers.</b> 
+<b>JJMS LUXURY es una empresa en la que podrás comprar los mejores y más lujosos coches, antigüedades, relojes, joyas, coleccionables, etc.<br>
+Nuestra empresa surge a raíz de la inflación donde ya todo es demasiado caro, lo pensamos y decidimos hacer algo para que puedas acceder a los productos o bienes que siempre has soñado tener a un bajo costo. Lo que vendemos son artículos de segunda mano, que pasan por una serie de pruebas para comprobar su excelente estado, ya que siempre pensamos en nuestros clientes.</b> 
 
 <br/>
-<h2 align="center">Technologies used</h2><br/>
+<h2 align="center">Tecnologías utilizadas</h2><br/>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -55,7 +53,7 @@ Our company emerged as a result of inflation where everything is already too exp
 <a href="https://#/" target="_blank"> <img src="https://th.bing.com/th?q=Trello+Icon.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-AR&cc=AR&setlang=es&adlt=moderate&t=1&mw=247" alt="trello" width="40" height="40"/> </a><br/><br/>
 
 
-<h2 align="center">Authors</h2>
+<h2 align="center">Autores</h2>
 
 <h3>|| Ezequiel Oscar Leiva || Fainyer Montezuma || Juan Ignacio Carreño || Jesus David Espinel Monteros || Matias Enrique Gonzalez || Santiago Oscar Miranda ||</h3><br/><br/>
 
