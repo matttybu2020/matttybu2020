@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, me llamo Matias Gonzalez</h1>
 <h3 align="center">¡BIENVENIDO A MI PERFIL! 😃💻</h3>
 
-<b>Soy Argentino, tengo 34 años recién graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarrolló full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir creciendo en este  mundo de la programación que avanza de manera muy rapida.<br></b> 
+<b>Soy Argentino, tengo 34 años recién graduado del bootcamp Soy Henry, actualmente estoy enfocado en el desarrollo full stack, esperando mi oportunidad laboral para demostrar mis habilidades adquiridas y poder seguir creciendo en este mundo de la programación que avanza de manera muy rápida.<br></b> 
 
 # 💫 About Me:
-Soy un desarrollador apasionado por la programación && Computación, me gustan los retos lógicos y trato de resolverlos de manera técnica y explicativa. Una de las cosas que me interesan es aprender nuevas tecnologías en el cual facilite mi trabajo para poder desempeñarme.
-Mi objetivo es poder tener el conocimiento y la práctica adecuada para poder utilizar tecnologías de programación y asi poder brindar mis conocimientos a las personas.
+Soy un desarrollador apasionado por la Programación & Computación, me gustan los retos lógicos y trato de resolverlos de manera técnica y explicativa. Una de las cosas que me interesan es aprender nuevas tecnologías que faciliten mi trabajo para poder desempeñarme de manera efectiva en cada proyecto.
+Mi objetivo es poder adquirir el conocimiento y la práctica adecuada para poder utilizar tecnologías de programación.
 
-Me consideró una persona con pensamiento lógico, autodidacta y dedicado a poder solucionar problemas. Me desenvuelvo muy bien trabajando en equipo.
+Me considero una persona con pensamiento lógico, autodidacta y dedicado a poder solucionar problemas. Me desenvuelvo muy bien trabajando en equipo.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reparaciondepcmattt/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matt.software) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-enrique-g) 
 
